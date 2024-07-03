@@ -1,0 +1,19 @@
+{
+    "Protein": {
+        "ProteinID": "string",
+        "ProteinName": "string",
+        "AminoAcidSequence": "string"
+    },
+    "Interaction": {
+        "InteractionID": "string",
+        "Protein1ID": "string",
+        "Protein2ID": "string",
+        "InteractionType": "string",
+        "InteractionStrength": "number"
+    },
+    "Organism": {
+        "OrganismID": "string",
+        "OrganismName": "string",
+        "ScientificName": "string"
+    }
+}
